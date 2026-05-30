@@ -1,9 +1,3 @@
-<!--
-  This file becomes the README of the special repo `Ammad-10/Ammad-10`.
-  GitHub renders it at the top of github.com/Ammad-10.
-  Push instructions: see ../APPLY.md
--->
-
 ### Ammad Ajaz
 
 **Cloud-native data and AI engineer.** I design production data platforms and ML systems across **AWS, GCP, and Azure** — from Terraform and Kubernetes up through PySpark, Airflow, and FastAPI.
