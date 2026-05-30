@@ -29,12 +29,12 @@ I help teams turn raw data into reliable, queryable assets and ship ML features 
 
 #### Tech I work with
 
-**Cloud** — AWS · GCP · Azure
-**Data engineering** — Apache Spark · PySpark · Airflow · dbt · Apache Hudi · BigQuery · EMR · Glue · Airbyte · Kafka
-**ML / AI** — PyTorch · Hugging Face · LoRA · SageMaker · MediaPipe · OpenCV
-**Backend** — FastAPI · Flask · Node.js · PostgreSQL · REST
-**Infrastructure** — Terraform · Kubernetes · Docker · Helm · CI/CD · IRSA
-**Frontend & mobile** — React · React Native · TypeScript
+- **Cloud** — AWS · GCP · Azure
+- **Data engineering** — Apache Spark · PySpark · Airflow · dbt · Apache Hudi · BigQuery · EMR · Glue · Airbyte · Kafka
+- **ML / AI** — PyTorch · Hugging Face · LoRA · SageMaker · MediaPipe · OpenCV
+- **Backend** — FastAPI · Flask · Node.js · PostgreSQL · REST
+- **Infrastructure** — Terraform · Kubernetes · Docker · Helm · CI/CD · IRSA
+- **Frontend & mobile** — React · React Native · TypeScript
 
 ---
 
